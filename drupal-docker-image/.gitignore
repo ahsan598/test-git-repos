@@ -1,0 +1,15 @@
+# ===== Docker =====
+*.tar
+*.img
+docker-compose.override.yml
+
+# ===== Executables Binaries =====
+*.exe
+*.jar
+*.war
+
+# ===================
+#    NetBeans IDE
+# ===================
+nbproject/
+build/
